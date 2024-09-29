@@ -4,6 +4,12 @@
 
 There’s no score or competition—just you, a pair of glasses, and the simple pleasure of making them shine again.
 
+## Demo
+
+Check out this YouTube [demo](https://youtu.be/x-Tw3W_rsQg) video to see Glass Gleam in action!
+
+[![Glass Gleam - Demo](assets/glass-gleam.png)](https://youtu.be/4BTWvUylnRo)
+
 ## Instructions
 
 - Press `B` to BLOW on the dirty glasses and remove the debris.
