@@ -8,7 +8,7 @@ There’s no score or competition—just you, a pair of glasses, and the simple 
 
 Check out this YouTube [demo](https://youtu.be/x-Tw3W_rsQg) video to see Glass Gleam in action!
 
-[![Glass Gleam - Demo](assets/glass-gleam.png)](https://youtu.be/4BTWvUylnRo)
+[![Glass Gleam - Demo](assets/glass-gleam.png)](https://youtu.be/x-Tw3W_rsQg)
 
 ## Instructions
 
