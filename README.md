@@ -11,21 +11,21 @@ There’s no score or competition—just you, a pair of glasses, and the simple 
 
 ## Instructions for Local Use
 
-### Option A: Run on Gamemaker Studio 2
+### Option A: Run on GameMaker Studio 2
 
 #### Prerequisites
 
 - Install [Steam](https://store.steampowered.com/about/download) and create an active Steam account.
-- Install Gamemaker Studio 2 on your machine via Steam.
-- Ensure all necessary dependencies are properly installed and configured within Gamemaker Studio 2.
+- Install GameMaker Studio 2 on your machine via Steam.
+- Ensure all necessary dependencies are properly installed and configured within GameMaker Studio 2.
 
-#### Steps to Run Gleam Glass Locally
+#### Steps to Run Glass Gleam Locally
 
 1. Clone this repository to your desired directory.
-2. Open Gamemaker Studio 2.
+2. Open GameMaker Studio 2.
 3. Select "Open Project" and navigate to the directory where the cloned repository is located.
 4. Open the `GleamGlass.yyp` project file.
-5. Run the project by clicking the play button within Gamemaker Studio 2.
+5. Run the project by clicking the play button within GameMaker Studio 2.
 6. Enjoy!
 
 ### Option B: Run the Windows Build
@@ -33,7 +33,7 @@ There’s no score or competition—just you, a pair of glasses, and the simple 
 1. Download the `GleamGlassWindows.zip` file.
 2. Extract the downloaded `.zip` file.
 3. Open the extracted folder and run the `GleamGlass.exe` application.
-4. Explore and enjoy!
+4. Enjoy!
 
 ## About
 
@@ -49,8 +49,8 @@ Enjoy the journey from grime to gleam!
 
 ## Contact
 
-I’d love to hear from you! If you have any questions, feedback, or suggestions about **Gleam Glass**, feel free to reach out.
+I’d love to hear from you! If you have any questions, feedback, or suggestions about **Glass Gleam**, feel free to reach out.
 
     Email: eviii.professional@gmail.com
 
-Thank you for exploring **Gleam Glass**!
+Thank you for exploring **Glass Gleam**!
