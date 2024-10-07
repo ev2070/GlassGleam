@@ -1,6 +1,6 @@
 # GLASS GLEAM
 
-**Glass** Gleam is an interactive digital toy built in GameMaker Studio 2. In this experience, you'll take on the simple yet satisfying task of cleaning a pair of glasses. Dust and eyelashes clutter the lenses, and it's your job to blow them away.
+**Glass Gleam** is an interactive digital toy built in GameMaker Studio 2. In this experience, you'll take on the simple yet satisfying task of cleaning a pair of glasses. Dust and eyelashes clutter the lenses, and it's your job to blow them away.
 
 There’s no score or competition—just you, a pair of glasses, and the simple pleasure of making them shine again.
 
