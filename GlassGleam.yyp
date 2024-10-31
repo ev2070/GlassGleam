@@ -38,6 +38,7 @@
   "name":"GlassGleam",
   "resources":[
     {"id":{"name":"fnt_dosis_semibold","path":"fonts/fnt_dosis_semibold/fnt_dosis_semibold.yy",},},
+    {"id":{"name":"dosis_semibold_OFL","path":"notes/dosis_semibold_OFL/dosis_semibold_OFL.yy",},},
     {"id":{"name":"obj_blow_button_active","path":"objects/obj_blow_button_active/obj_blow_button_active.yy",},},
     {"id":{"name":"obj_blow_button_inactive","path":"objects/obj_blow_button_inactive/obj_blow_button_inactive.yy",},},
     {"id":{"name":"obj_blow_particle","path":"objects/obj_blow_particle/obj_blow_particle.yy",},},
