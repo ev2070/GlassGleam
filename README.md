@@ -53,7 +53,7 @@ Enjoy the journey from grime to gleam!
 
 - `fnt_dosis_semibold`: _Dosis_ designed by Impallari Type. Available at [this](https://fonts.google.com/specimen/Dosis?query=dosis) link.
 
-# Usage
+## Usage
 
 While I appreciate interest in my project, please note the following:
 
